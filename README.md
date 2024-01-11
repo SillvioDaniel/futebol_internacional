@@ -17,7 +17,7 @@
 
 [Notebook](futebol.ipynb)
 
-#### País vencedores
+### Países vencedores
 ![Países](img/paises_vencedores.png "Países")   
 
 
