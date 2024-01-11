@@ -10,7 +10,6 @@
 ### Perguntas
 * Quais são os países mais vencedores?
 * Houveram mudanças no futebol com o tempo?
-* Quais são países mais vencedores?
 * Quais são os maiores marcadores?
 * Quais são os melhores cobradores de pênaltis?
 
